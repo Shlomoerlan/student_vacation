@@ -1,0 +1,26 @@
+Name,Age,Favorite_Language,Favorite_Framework
+David HaMagid,22,Python,Django
+Reuven Cohen,21,JavaScript,React
+Yehuda Zeev,23,Java,Spring Boot
+Yair Weissman,20,Python,Flask
+Menachem Mendel Achrak,24,C#,.NET Core
+Benjamin Naftali,19,JavaScript,Vue.js
+Chaim Tzvi Talker,22,Ruby,Ruby on Rails
+Yeshayahu Stern,21,Go,Gin
+Aaron Reiner,23,TypeScript,Angular
+Mordechai Oren,20,Python,FastAPI
+Pinchas Waxberger,24,Java,Hibernate
+Shlomo Goldberg,22,Rust,Actix
+Eliyahu Erlanger,21,PHP,Laravel
+Eliezer Shamul,23,JavaScript,Next.js
+Elkana Kalman,20,Python,PyTorch
+Jonathan Rosenthal,24,C++,Qt
+Shlomo Benati,19,Swift,SwiftUI
+Menachem Lintzer,22,Kotlin,Spring
+Mordechai Cohen,21,JavaScript,Express
+Menachem Amrami,23,Python,NumPy
+Ariel Albert,20,Ruby,Sinatra
+Menachem Mendel Ben Chaim,24,Go,Echo
+Simcha Mizrachi,22,JavaScript,Svelte
+Israel Vershaviak,21,Python,TensorFlow
+Friedles,23,Java,Micronaut
